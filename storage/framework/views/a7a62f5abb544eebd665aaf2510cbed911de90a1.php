@@ -1,1 +1,0 @@
-Test Mail<?php /**PATH /home/wwwsmddeveloper/public_html/ibp/resources/views/demo.blade.php ENDPATH**/ ?>
