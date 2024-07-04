@@ -1,0 +1,32 @@
+@media (max-width: 1399.98px) {
+    .header .main-menu-wrapper .main-nav > li {
+        margin-right: 0px !important;
+    }
+}
+
+@media (max-width: 1399.98px) {
+    .header .header-navbar-rht > li .nav-link.btn {
+        padding: 10px 10px !important;
+    }
+}
+
+.header .header-nav .main-nav > li > a {
+    font-size: 16px !important;
+}
+
+.coach-btn ul li {
+    padding-right: 10px;
+    width: 50%;
+}
+.grid-nav-item {
+    /* background: #192335; */
+    color: #FFFFFF !important;
+    padding: 12px 33px !important;
+    border-radius: 5px !important;
+}
+
+@media screen and (min-width: 1024px){
+.header .main-menu-wrapper .main-nav:last-child {
+        margin-right: 93px !important;
+    }
+}

@@ -1,0 +1,1 @@
+Email Updated<?php /**PATH /home/wwwsmddeveloper/public_html/ibp/resources/views/emails/verify.blade.php ENDPATH**/ ?>

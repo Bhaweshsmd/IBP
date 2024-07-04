@@ -1,0 +1,20 @@
+@media (max-width: 1399.98px) {
+    .header .main-menu-wrapper .main-nav > li {
+        margin-right: 0px !important;
+    }
+}
+@media (max-width: 1399.98px) {
+    .header .header-navbar-rht > li .nav-link.btn {
+        padding: 10px 5px;
+    }
+}
+
+
+.header .header-nav .main-nav > li > a {
+    font-size: 15px !important;
+}
+
+.coach-btn ul li {
+    padding-right: 13px;
+    width: 50%;
+}
