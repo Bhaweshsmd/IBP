@@ -12,6 +12,6 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-.env
-config/database.php
-config/mail.php
+*.env
+/config/*database.php
+/config/*mail.php
